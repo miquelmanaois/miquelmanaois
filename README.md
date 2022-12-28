@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/miquelmanaois/virtualmachine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/miquelmanaois/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/miquelmanaois/activedirectory)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/miquelmanaois/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/miquelmanaois/osTicket-post-installing)
